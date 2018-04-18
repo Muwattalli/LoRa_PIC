@@ -11,6 +11,9 @@ The creative commons license (non commercial)
 Docs_LoRa_Pic.pdf
 a description of the project (pictures are here)
 
+PonLib.lbr
+A Eagle CAD library with custom symbols used in this project
+
 Proc_brd.zip
 Eagle CAD files of the PIC board
 
